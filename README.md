@@ -1,2 +1,2 @@
-This is a ecommerce react app built and deployed successfully
+This is a ecommerce react app built and deployed successfully.
 
